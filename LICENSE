@@ -1,21 +1,28 @@
-MIT License
+Business License Agreement for RADOS Quantum Nexus™
 
-Copyright (c) 2025 radice210
+© 2025 Ervin Remus Radosavlevici. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This software and all associated intellectual property, including but not limited to source code, algorithms, designs, documentation, and trademarks ("Software"), is exclusively owned by Ervin Remus Radosavlevici.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Ownership and Use
+The Software is licensed exclusively to Ervin Remus Radosavlevici. No third party may use, copy, distribute, modify, or create derivative works from this Software without express written permission from the owner.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Restrictions
+- The Software repository located at https://github.com/radice210/radosquantumnexus.git is the sole official repository.
+- No transfer, fork, clone, or replication of this repository is permitted without explicit authorization.
+- Commercial use, redistribution, or sublicensing without prior written consent is strictly prohibited.
+
+3. Term
+This license remains in effect indefinitely unless revoked in writing by Ervin Remus Radosavlevici.
+
+4. Enforcement
+Violations of this license will be subject to legal action in accordance with international intellectual property law.
+
+5. Governing Law
+This license shall be governed by the laws of the country of residence of Ervin Remus Radosavlevici.
+
+Timestamp: 2025-05-22T14:00:00Z UTC
+
+Signed by:  
+Ervin Remus Radosavlevici  
+Email: ervin210@icloud.com
